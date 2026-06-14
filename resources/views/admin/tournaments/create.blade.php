@@ -16,7 +16,7 @@
 
                     <div>
                         <label class="block text-xs font-semibold text-padel-muted uppercase tracking-wider mb-2">Tournament Name</label>
-                        <input type="text" name="name" value="{{ old('name') }}" required placeholder="e.g. Winter Smash Cup 2026"
+                        <input type="text" name="name" value="{{ old('name') }}" required placeholder="e.g. Summer Smash Cup 2026"
                                class="w-full bg-padel-input border border-padel-border rounded-xl px-4 py-3 text-white text-sm focus:ring-1 focus:ring-brand focus:border-brand">
                     </div>
 
